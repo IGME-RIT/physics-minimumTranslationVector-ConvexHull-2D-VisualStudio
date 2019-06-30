@@ -1,3 +1,0 @@
-﻿  Main.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  MTV_Convex_Hull_2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level8\physics-minimumTranslationVector-ConvexHull-2D-masterVS2019\MTV_Convex_Hull_2D\Debug\MTV_Convex_Hull_2D.exe
